@@ -4,7 +4,7 @@
 
 
 
--   🔭  I'm currently working on various SQL project
+-   🔭  I'm currently working on various SQL projects
 -    ❗   I'm focused on Data Analytics & Programming
 -   🌱  I’m expanding my analytical & programming tool kit
 -   📫  Reach me by: www.linkedin.com/in/benjamin-kennedy-da/
